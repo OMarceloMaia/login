@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mentoria</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="preference_file_key">com.marcelomaia.mentoria.preference_file_key</string>
+    <string name="logout">Logout</string>
+    <string name="password">Password</string>
+</resources>
